@@ -4,7 +4,7 @@ This is a web application portfolio. What this port folio does is to let the cro
 
 The purpose for this portfolio is to show how I'm going to build this up using the following technologies.
 
-	## Technologies to be use.
+	#Technologies to be use.
 
 	* AngularJS
 	* Twitter Bootstrap
@@ -14,4 +14,4 @@ The purpose for this portfolio is to show how I'm going to build this up using t
 	* MongoDB/Redis (Database)
 	* Some social media APIs
 
-	#Coming Soon...
+# Coming Soon...
